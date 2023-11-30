@@ -105,7 +105,7 @@ jupyterlab_server==2.22.0
 keyring==23.13.1
 kiwisolver==1.4.5
 libarchive-c==2.9
-libmambapy==1.5.3
+
 lightgbm==4.1.0
 lmdb==1.4.1
 locket==1.0.0
