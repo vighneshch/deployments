@@ -122,7 +122,6 @@ mlxtend==0.23.0
 more-itertools==10.1.0
 msgpack==1.0.3
 multidict==6.0.4
-navigator-updater==0.4.0
 nbclassic==0.5.5
 nbclient==0.5.13
 nbconvert==6.5.4
